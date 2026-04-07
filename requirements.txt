@@ -1,0 +1,18 @@
+# Core LangChain + LangGraph
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-huggingface>=0.1.0
+langgraph>=0.2.0
+
+# HuggingFace Inference API
+huggingface-hub>=0.24.0
+
+# Streamlit UI
+streamlit>=1.35.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# Optional: for running generated tests
+pytest>=8.0.0
+pytest-mock>=3.12.0
